@@ -1,5 +1,4 @@
 # FreshMart Retail Waste & Markdown Analytics
-
 ## Project Overview
 
 This is an end-to-end Excel analytics project I built to analyse retail sales, waste, shrinkage, markdown performance, inventory risk and supplier deliveries.
