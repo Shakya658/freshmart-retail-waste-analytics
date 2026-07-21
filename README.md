@@ -11,7 +11,7 @@ The project was built using Excel, Power Query, the Excel Data Model, Power Pivo
 
 ## Dashboard Preview
 
-![FreshMart Retail Waste & Markdown Analytics Dashboard](screenshots/Dashboard.png)
+![FreshMart Retail Waste & Markdown Analytics Dashboard](screenshots/Dashboard-image.png)
 
 ---
 
